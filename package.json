@@ -1,0 +1,13 @@
+{
+  "name": "api-storage",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev -r",
+    "start": "wrangler dev -r"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

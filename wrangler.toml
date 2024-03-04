@@ -1,0 +1,9 @@
+name = "api-storage"
+main = "src/index.js"
+compatibility_date = "2024-02-23"
+account_id = "96057de18f4b65670e25d966554a1b7d"
+
+[[r2_buckets]]
+binding = 'R2'
+bucket_name = 'gestao-individual'
+preview_bucket_name = 'gestao-individual'
